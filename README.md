@@ -8,20 +8,20 @@ Student Details
 Full Name: Aakansh Chatterjee
 CCID: aakansh
 
-Full Name: ******
-CCID: ******
+Full Name: Aalpesh Dayal
+CCID: aalpesh
 
-Full Name: ******
-CCID: ******
+Full Name: Vansh Taneja
+CCID: vtaneja1
 
-Full Name: ******
-CCID: ******
+Full Name: Jagjot Singh Brar
+CCID: jagjot1
 
-Full Name: ******
-CCID: ******
+Full Name: Digaant Chhokra
+CCID: chhokra
 
-Full Name: ******
-CCID: ******
+Full Name: Sai Vashnavi Jattu
+CCID: jattu
 
 References and Resources
 List any resources used here, or simply put N/A if not applicable.
