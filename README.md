@@ -5,23 +5,23 @@ Lab-04
 CMPUT 301 : Lab 4 Participation Exercise
 Student Details
 
+Full Name: Sai Vashnavi Jattu
+CCID: jattu
+
 Full Name: Aakansh Chatterjee
 CCID: aakansh
 
-Full Name: ******
-CCID: ******
+Full Name: Aalpesh Dayal
+CCID: aalpesh
 
-Full Name: ******
-CCID: ******
+Full Name: Vansh Taneja
+CCID: vtaneja1
 
-Full Name: ******
-CCID: ******
+Full Name: Jagjot Singh Brar
+CCID: jagjot1   
 
-Full Name: ******
-CCID: ******
-
-Full Name: ******
-CCID: ******
+Full Name: Digaant Chhokra
+CCID:  chhokra
 
 References and Resources
 List any resources used here, or simply put N/A if not applicable.
